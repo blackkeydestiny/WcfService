@@ -52,6 +52,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CalculatorService.svc" />
+    <Content Include="IIS.png" />
+    <Content Include="IIS01.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Web.config" />

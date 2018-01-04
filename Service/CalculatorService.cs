@@ -7,6 +7,17 @@ using Service.Interface;
 
 namespace Service
 {
+
+    /*                                      二、创建服务
+     * 
+     *                          1、创建服务类，实现契约接口,即服务契约
+     * 
+     * 
+     * 
+     * 
+     * **/
+
+
     /// <summary>
     /// 创建服务
     /// </summary>
